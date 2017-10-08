@@ -1,0 +1,40 @@
+.header-container {
+    padding: 5px;
+    background-color: #074d8c;
+}
+
+.header-title {
+    color: white;
+    font-size: 5em;
+    padding-top:0px;        
+}
+.header-banner {
+    float:left;
+}
+
+
+.header-navigation {
+    float:right;
+    margin-top:20px;
+    margin-right:20px;
+}
+
+.header-navigation ul {
+    list-style:none;
+    margin:0;    
+    padding:0;
+    display:table-row;
+    white-space:nowrap;
+}
+
+.header-navigation ul li {
+    display:table-cell;
+    padding: 5px;
+    
+}
+
+.header-navigation ul li a {
+    color: white;    
+    text-decoration: none;
+    font-size: 2em;
+}
